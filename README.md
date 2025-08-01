@@ -17,7 +17,7 @@ This project implements a Library Management System using SQL.
 
 ## 💻 Built With:
 - SQL Workbench/J
-- MySQL/PostgreSQL (Any RDBMS)
+- MySQL
 
 ## 📦 How to Run:
 - Open in SQL Workbench
